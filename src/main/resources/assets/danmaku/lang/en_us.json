@@ -1,0 +1,5 @@
+{
+  "msg.danmaku.cfg.reload": "Danmaku configuration reloading...",
+  "msg.danmaku.access.failure": "Room access failed! Check your room id and the network.",
+  "msg.danmaku.access.success": "Room access succeeded! Connecting to the room now..."
+}

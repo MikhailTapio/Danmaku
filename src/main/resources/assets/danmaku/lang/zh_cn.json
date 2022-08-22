@@ -1,0 +1,5 @@
+{
+  "msg.danmaku.cfg.reload": "弹幕配置重载中...",
+  "msg.danmaku.access.failure": "房间获取失败！请检查是否有输入错误，或网络问题",
+  "msg.danmaku.access.success": "房间获取成功！正在连接弹幕..."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "danmaku",
+  "name": "Danmaku-Rift",
+  "authors": [
+    "TartaricAcid",
+    "Tapio"
+  ],
+  "listeners": [
+    {
+      "class": "committee.nova.danmaku.Danmaku",
+      "side": "client"
+    }
+  ],
+  "description": "Allow you to watch the danmakus when playing in-game."
+}

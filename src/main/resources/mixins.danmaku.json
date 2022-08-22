@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.7.7",
+  "compatibilityLevel": "JAVA_8",
+  "target": "@env(DEFAULT)",
+  "package": "committee.nova.danmaku.mixin",
+  "refmap": "mixins.danmaku.refmap.json",
+  "mixins": [],
+  "client": [
+    "MixinPlayerList"
+  ],
+  "server": [],
+  "verbose": true
+}
